@@ -1,0 +1,14 @@
+{
+    "BOT_TOKEN": "",
+    "cfxStatus": {
+        "CHANNEL_ID": "1221822154207924326",
+        "CHANNEL_NAME": "CFX Status",
+        "lastMessageId": "1221824468876398674"
+    },
+    "srvStatus": {
+        "SERVER_ID": "94jyoa",
+        "CHANNEL_ID": "1221822278002675832",
+        "CHANNEL_NAME": "Server Status",
+        "lastMessageId": "1221824458952540312"
+    }
+}
